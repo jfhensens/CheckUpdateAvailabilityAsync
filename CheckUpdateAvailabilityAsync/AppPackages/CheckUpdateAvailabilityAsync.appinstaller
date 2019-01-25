@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller Uri="file://po160002893/TEST/CheckUpdateAvailabilityAsync.appinstaller" Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+  <MainBundle Name="0ddf5b74-0c3f-4024-ab15-111779ca0a68" Version="1.0.1.0" Publisher="CN=KMK7700" Uri="file://po160002893/TEST/CheckUpdateAvailabilityAsync_1.0.1.0_Debug_Test/CheckUpdateAvailabilityAsync_1.0.1.0_AnyCPU_Debug.msixbundle" />
+  <UpdateSettings>
+    <OnLaunch HoursBetweenUpdateChecks="0" />
+  </UpdateSettings>
+</AppInstaller>
