@@ -1,0 +1,2 @@
+# CheckUpdateAvailabilityAsync
+Package.CheckUpdateAvailabilityAsync Method
